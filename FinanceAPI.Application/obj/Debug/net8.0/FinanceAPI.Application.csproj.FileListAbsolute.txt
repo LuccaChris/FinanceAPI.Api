@@ -13,3 +13,4 @@ C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Application\obj\Debug\net8.0\Fi
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Application\obj\Debug\net8.0\refint\FinanceAPI.Application.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Application\obj\Debug\net8.0\FinanceAPI.Application.pdb
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Application\obj\Debug\net8.0\ref\FinanceAPI.Application.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Application\obj\Debug\net8.0\FinanceAPI.Application.sourcelink.json

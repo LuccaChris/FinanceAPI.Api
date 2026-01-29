@@ -112,3 +112,12 @@ C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\FinanceAPI.pdb
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\FinanceAPI.genruntimeconfig.cache
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\ref\FinanceAPI.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\FinanceAPI.sourcelink.json
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

@@ -21,7 +21,7 @@ public class CreateUserUseCase
     {
         var existingUser = await _userRepository.GetByEmailAsync(dto.Email);
         if (existingUser is not null)
-            throw new Exception("Email already in use");
+            throw new Exception("E-mail já em uso");
 
         var passwordHash = _passwordHasher.Hash(dto.Password);
 

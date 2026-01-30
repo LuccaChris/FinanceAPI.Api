@@ -23,11 +23,11 @@ public class LoginUseCase
     {
         var user = await _userRepository.GetByEmailAsync(dto.Email);
         if (user is null)
-            throw new Exception("Invalid credentials");
+            throw new Exception("Credenciais inválidas");
 
         var ok = _passwordHasher.Verify(dto.Password, user.PasswordHash);
         if (!ok)
-            throw new Exception("Invalid credentials");
+            throw new Exception("Credenciais inválidas");
 
         var token = _jwt.Generate(user);
 

@@ -10,7 +10,7 @@ public static class ClaimsPrincipalExtensions
                   ?? user.FindFirstValue("sub");
 
         if (string.IsNullOrWhiteSpace(sub))
-            throw new Exception("UserId not found in token");
+            throw new Exception("ID do usuário não encontrado no token.");
 
         return Guid.Parse(sub);
     }

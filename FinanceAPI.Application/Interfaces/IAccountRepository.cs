@@ -4,7 +4,9 @@ namespace FinanceAPI.Application.Interfaces;
 
 public interface IAccountRepository
 {
+    
     Task AddAsync(Account account);
+    Task UpdateAsync(Account account);
     Task<List<Account>> GetByUserIdAsync(Guid userId);
     Task<Account?> GetByIdAsync(Guid id);
 }

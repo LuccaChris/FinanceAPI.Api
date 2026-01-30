@@ -10,6 +10,10 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using FinanceAPI.Application.UseCases.Accounts;
+using FinanceAPI.Application.UseCases.Transactions;
+
+
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -29,6 +33,9 @@ builder.Services.AddScoped<LoginUseCase>();
 builder.Services.AddScoped<IAccountRepository, AccountRepository>();
 builder.Services.AddScoped<CreateAccountUseCase>();
 builder.Services.AddScoped<GetMyAccountsUseCase>();
+builder.Services.AddScoped<ITransactionRepository, TransactionRepository>();
+builder.Services.AddScoped<CreateTransactionUseCase>();
+builder.Services.AddScoped<GetAccountTransactionsUseCase>();
 
 builder.Services
     .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)

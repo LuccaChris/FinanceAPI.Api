@@ -12,6 +12,8 @@ public class FinanceDbContext : DbContext
     public DbSet<Account> Accounts => Set<Account>();
     public DbSet<User> Users => Set<User>();
 
+    public DbSet<Transaction> Transactions => Set<Transaction>();
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
@@ -59,6 +61,31 @@ public class FinanceDbContext : DbContext
                   .HasForeignKey(x => x.UserId)
                   .OnDelete(DeleteBehavior.Cascade);
         });
+            modelBuilder.Entity<Transaction>(entity =>
+            {
+                  entity.ToTable("Transactions"); 
+      
+                  entity.HasKey(x => x.Id);
+      
+                  entity.Property(x => x.Type)
+                        .IsRequired();
+      
+                  entity.Property(x => x.Amount)
+                        .IsRequired()
+                        .HasColumnType("decimal(18,2)");
+      
+                  entity.Property(x => x.Date)
+                        .IsRequired();
+      
+                  entity.Property(x => x.Description)
+                        .HasMaxLength(500);
+      
+                  entity.HasOne<Account>()
+                        .WithMany()
+                        .HasForeignKey(x => x.AccountId)
+                        .OnDelete(DeleteBehavior.Cascade);
+            });
+        
     }
 
     

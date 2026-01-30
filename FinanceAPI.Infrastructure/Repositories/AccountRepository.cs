@@ -28,4 +28,10 @@ public class AccountRepository : IAccountRepository
 
     public async Task<Account?> GetByIdAsync(Guid id)
         => await _context.Accounts.FirstOrDefaultAsync(x => x.Id == id);
+
+    public async Task UpdateAsync(Account account)
+    {
+    _context.Accounts.Update(account);
+    await _context.SaveChangesAsync();
+    }
 }

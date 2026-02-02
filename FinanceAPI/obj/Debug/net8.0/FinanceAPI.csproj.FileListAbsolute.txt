@@ -6,7 +6,9 @@ C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\FinanceAPI.dep
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\FinanceAPI.runtimeconfig.json
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\FinanceAPI.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\FinanceAPI.pdb
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -18,6 +20,12 @@ C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.Enti
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Npgsql.dll
@@ -31,6 +39,7 @@ C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\System.Composi
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -97,6 +106,7 @@ C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\FinanceAPI.Ass
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\FinanceAPI.csproj.CoreCompileInputs.cache
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\FinanceAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\FinanceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\FinanceAPI.sourcelink.json
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -111,13 +121,3 @@ C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\refint\Finance
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\FinanceAPI.pdb
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\FinanceAPI.genruntimeconfig.cache
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\ref\FinanceAPI.dll
-C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
-C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\obj\Debug\net8.0\FinanceAPI.sourcelink.json
-C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

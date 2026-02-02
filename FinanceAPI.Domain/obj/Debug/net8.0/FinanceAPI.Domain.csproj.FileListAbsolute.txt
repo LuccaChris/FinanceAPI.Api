@@ -5,8 +5,8 @@ C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Domain\obj\Debug\net8.0\Finance
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Domain\obj\Debug\net8.0\FinanceAPI.Domain.AssemblyInfoInputs.cache
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Domain\obj\Debug\net8.0\FinanceAPI.Domain.AssemblyInfo.cs
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Domain\obj\Debug\net8.0\FinanceAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Domain\obj\Debug\net8.0\FinanceAPI.Domain.sourcelink.json
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Domain\obj\Debug\net8.0\FinanceAPI.Domain.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Domain\obj\Debug\net8.0\refint\FinanceAPI.Domain.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Domain\obj\Debug\net8.0\FinanceAPI.Domain.pdb
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Domain\obj\Debug\net8.0\ref\FinanceAPI.Domain.dll
-C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Domain\obj\Debug\net8.0\FinanceAPI.Domain.sourcelink.json

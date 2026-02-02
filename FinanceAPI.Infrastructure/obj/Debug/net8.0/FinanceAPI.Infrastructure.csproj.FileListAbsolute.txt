@@ -11,10 +11,10 @@ C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Infrastructure\obj\Debug\net8.0
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Infrastructure\obj\Debug\net8.0\FinanceAPI.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Infrastructure\obj\Debug\net8.0\FinanceAPI.Infrastructure.AssemblyInfo.cs
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Infrastructure\obj\Debug\net8.0\FinanceAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Infrastructure\obj\Debug\net8.0\FinanceAPI.Infrastructure.sourcelink.json
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Infrastructure\obj\Debug\net8.0\FinanceA.7FEDEE13.Up2Date
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Infrastructure\obj\Debug\net8.0\FinanceAPI.Infrastructure.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Infrastructure\obj\Debug\net8.0\refint\FinanceAPI.Infrastructure.dll
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Infrastructure\obj\Debug\net8.0\FinanceAPI.Infrastructure.pdb
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Infrastructure\obj\Debug\net8.0\FinanceAPI.Infrastructure.genruntimeconfig.cache
 C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Infrastructure\obj\Debug\net8.0\ref\FinanceAPI.Infrastructure.dll
-C:\Users\207.cllamaral\FinanceAPI.Api\FinanceAPI.Infrastructure\obj\Debug\net8.0\FinanceAPI.Infrastructure.sourcelink.json

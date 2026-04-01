@@ -3465,11 +3465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\207.cllamaral\\FinanceAPI.Api\\FinanceAPI\\FinanceAPI.csproj",
+      "projectUniqueName": "C:\\Users\\207.cllamaral\\Documents\\Nova pasta\\FinanceAPI.Api\\FinanceAPI\\FinanceAPI.csproj",
       "projectName": "FinanceAPI",
-      "projectPath": "C:\\Users\\207.cllamaral\\FinanceAPI.Api\\FinanceAPI\\FinanceAPI.csproj",
+      "projectPath": "C:\\Users\\207.cllamaral\\Documents\\Nova pasta\\FinanceAPI.Api\\FinanceAPI\\FinanceAPI.csproj",
       "packagesPath": "C:\\Users\\207.cllamaral\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\207.cllamaral\\FinanceAPI.Api\\FinanceAPI\\obj\\",
+      "outputPath": "C:\\Users\\207.cllamaral\\Documents\\Nova pasta\\FinanceAPI.Api\\FinanceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3491,11 +3491,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\207.cllamaral\\FinanceAPI.Api\\FinanceAPI.Application\\FinanceAPI.Application.csproj": {
-              "projectPath": "C:\\Users\\207.cllamaral\\FinanceAPI.Api\\FinanceAPI.Application\\FinanceAPI.Application.csproj"
+            "C:\\Users\\207.cllamaral\\Documents\\Nova pasta\\FinanceAPI.Api\\FinanceAPI.Application\\FinanceAPI.Application.csproj": {
+              "projectPath": "C:\\Users\\207.cllamaral\\Documents\\Nova pasta\\FinanceAPI.Api\\FinanceAPI.Application\\FinanceAPI.Application.csproj"
             },
-            "C:\\Users\\207.cllamaral\\FinanceAPI.Api\\FinanceAPI.Infrastructure\\FinanceAPI.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\207.cllamaral\\FinanceAPI.Api\\FinanceAPI.Infrastructure\\FinanceAPI.Infrastructure.csproj"
+            "C:\\Users\\207.cllamaral\\Documents\\Nova pasta\\FinanceAPI.Api\\FinanceAPI.Infrastructure\\FinanceAPI.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\207.cllamaral\\Documents\\Nova pasta\\FinanceAPI.Api\\FinanceAPI.Infrastructure\\FinanceAPI.Infrastructure.csproj"
             }
           }
         }
@@ -3566,7 +3566,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

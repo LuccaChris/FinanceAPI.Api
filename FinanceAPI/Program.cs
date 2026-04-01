@@ -41,7 +41,11 @@ builder.Services
     .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
-        var key = builder.Configuration["Jwt:Key"]!;
+        var key = builder.Configuration["Jwt:Key"];
+
+        if (string.IsNullOrWhiteSpace(key))
+            throw new InvalidOperationException("JWT Key não configurada.");
+
         options.TokenValidationParameters = new TokenValidationParameters
         {
             ValidateIssuer = true,
@@ -54,9 +58,15 @@ builder.Services
         };
     });
 
-    builder.Services.AddSwaggerGen(c =>
+builder.Services.AddAuthorization();
+
+builder.Services.AddSwaggerGen(c =>
 {
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "FinanceAPI", Version = "v1" });
+    c.SwaggerDoc("v1", new OpenApiInfo
+    {
+        Title = "FinanceAPI",
+        Version = "v1"
+    });
 
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
@@ -79,12 +89,10 @@ builder.Services
                     Id = "Bearer"
                 }
             },
-            new string[] { }
+            Array.Empty<string>()
         }
     });
 });
-
-builder.Services.AddAuthorization();
 
 var app = builder.Build();
 
@@ -93,9 +101,12 @@ if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseHttpsRedirection();
+
 app.UseAuthentication();
 app.UseAuthorization();
 
-app.UseHttpsRedirection();
 app.MapControllers();
+
 app.Run();
